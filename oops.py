@@ -24,3 +24,5 @@ class lion(animal):
     pass
 obj=lion("orange","wild")
 obj.sound()
+
+print("new content")
