@@ -1,0 +1,11 @@
+import math
+print(min(5,2,8,3,6,9))
+print(max(7,3,9,2,5,1))
+print(abs(-7))
+print(pow(3,2))
+print(math.pi)
+print(math.factorial(5))
+print(math.sqrt(49))
+print(math.floor(3.4))
+print(math.ceil(3.8))
+print(math.log10(1000))
